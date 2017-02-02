@@ -1,0 +1,29 @@
+{
+  "name": "rn-nbase",
+  "version": "0.5.12",
+  "description": "nbase",
+  "main": "index.js",
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "color": "~0.11.1",
+    "lodash": "~4.11.1",
+    "react-native-checkbox": "~1.0.8",
+    "react-native-easy-grid": "0.1.5",
+    "react-native-keyboard-aware-scroll-view": "0.2.0",
+    "react-native-vector-icons": "2.x.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherwinterunez/rn-nbase.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sherwinterunez/rn-nbase/issues"
+  },
+  "homepage": "https://github.com/sherwinterunez/rn-nbase#readme"
+}
