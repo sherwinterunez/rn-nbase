@@ -11,7 +11,7 @@ import Fab from './Fab';
 import NativeBaseComponent from '../Base/NativeBaseComponent';
 import _ from 'lodash';
 import computeProps from '../../Utils/computeProps';
-import { GiftedChat, Actions, Bubble } from 'react-native-gifted-chat';
+import { GiftedChat, Actions, Bubble } from 'rn-chat';
 
 
 export default class Container extends NativeBaseComponent {
